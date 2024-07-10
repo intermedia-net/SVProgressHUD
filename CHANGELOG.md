@@ -1,3 +1,6 @@
+## Version 2.2.7
+* Added PrivacyInfo.xcprivacy file
+
 ## Version 2.2.6
 * Added option for custom Blur effect style for background,  rewritten indefinite animation view for smooth animation, added option to set custom ring color without affecting background color #946
 * Remove new line character before setting accessibility text to avoid repetition of voice over for same text #872
